@@ -25,8 +25,8 @@ This is a simple **Inventory Management System** built using **Node.js, Express,
 
 ## Setup Instructions
 
-## 1. Install packages:
-    It will be done autonatically just run "npm init -y"
+## 1. Install packages: It will be done autonatically just run 
+    "npm init -y"
 ## 2. Open the console in VS code and type :
 
     "npm start"
