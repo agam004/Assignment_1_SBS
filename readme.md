@@ -40,6 +40,8 @@ This is a simple **Inventory Management System** built using **Node.js, Express,
 ### Negative Quantity: Changed to 0 if negative.
 ### Invalid Price Format: Ensures the price is a valid number.
 ### Duplicate Entries: Prevents adding identical items.
+
+
 ## Author
 👤 Guragampreet Singh
 🎓 Student Number: 8913870
