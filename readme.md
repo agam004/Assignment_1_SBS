@@ -1,5 +1,9 @@
 # Inventory Management System
 
+
+## Git Repository For This File: 
+https://github.com/agam004/Assignment_1_SBS
+
 ## Overview
 This is a simple **Inventory Management System** built using **Node.js, Express, Sequelize, and PostgreSQL** (hosted on Neon.tech). The system provides an easy way to manage inventory items with basic CRUD operations.
 
@@ -46,3 +50,5 @@ This is a simple **Inventory Management System** built using **Node.js, Express,
 👤 Guragampreet Singh
 🎓 Student Number: 8913870
 📅 Submission Date: 10/02/2025
+
+
