@@ -41,7 +41,7 @@ This is a simple **Inventory Management System** built using **Node.js, Express,
 ### Invalid Price Format: Ensures the price is a valid number.
 ### Duplicate Entries: Prevents adding identical items.
 
-
+##
 👤 Guragampreet Singh
 🎓 Student Number: 8913870
 📅 Submission Date: 10/02/2025
