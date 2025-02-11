@@ -35,28 +35,12 @@ This is a simple **Inventory Management System** built using **Node.js, Express,
 ## The app will be running at:
 🔗 http://localhost:3870
 
-Folder Structure
+## The system corrects the following errors before storing data (As mentioned in instructions):
 
-/inventory-app
-│── public/              # Static files (CSS, images)
-│── views/               # EJS templates
-│   ├── header.ejs       # Header for all pages (Navigation bar)
-|   ├── footer.ejs       # Footer for all pages (Name and Student Number)
-│   ├── index.ejs        # All items available in inventory
-│   ├── add.ejs          # Add new item page
-│   ├── edit.ejs         # Edit excisting item page
-│── models/              # Sequelize models
-│── routes/              # API routes
-│── server.js            # Main server file
-│── README.md            # Project documentation
-
-
-# The system corrects the following errors before storing data (As mentioned in instructions):
-
-## Negative Quantity: Changed to 0 if negative.
-## Invalid Price Format: Ensures the price is a valid number.
-## Duplicate Entries: Prevents adding identical items.
-Author
+### Negative Quantity: Changed to 0 if negative.
+### Invalid Price Format: Ensures the price is a valid number.
+### Duplicate Entries: Prevents adding identical items.
+## Author
 👤 Guragampreet Singh
 🎓 Student Number: 8913870
 📅 Submission Date: 10/02/2025
