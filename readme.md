@@ -29,11 +29,15 @@ This is a simple **Inventory Management System** built using **Node.js, Express,
 
 ## Setup Instructions
 
-## 1. Install packages: It will be done autonatically just run 
-    "npm init -y"
-## 2. Open the console in VS code and type :
+## 1. Install packages: It will be done autonatically just run in the app console
+    "npm install"
+## 2. After that run  :
 
-    "npm start"
+    "nodemon start" OR "node start"
+
+# (Optional Step) (Only Use if no data appears on homepage)
+## 3. Migrate Data to neon : 
+    "node migrate.js"
 
 
 ## The app will be running at:

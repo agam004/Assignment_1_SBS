@@ -18,9 +18,9 @@ app.use('/', inventoryRoutes);
 //using the defined inventory Routes in file routes/Inventory.js
 
 sequelize.authenticate().then(() => {
-    console.log('Database connected Successfully ;)');
+    console.log('Database connected Successfully :)');
     try{
-        app.listen(3870, () => console.log(`Server started on http://localhost:3870\nPress Ctrl-C to terminate\nHello Proffessor, How are you doing?  ;)`));
+        app.listen(3870, () => console.log(`Server started on http://localhost:3870\nPress Ctrl-C to terminate\nHello Proffessor, How are you doing?  :)`));
     }
     catch(err){
         console.log('Error while starting server:', err);}

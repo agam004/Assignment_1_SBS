@@ -11,7 +11,7 @@ const { Inventory, sequelize } = require('./models/Inventory');
     ];
 
     await Inventory.bulkCreate(data);
-    console.log("Data migrated..."); //data migration confirmation
+    console.log("Data migrated Successfully"); //data migration confirmation
     process.exit();
 })();
 //Fixed all the issues in excel data provided and pushed the data to the database using this file
