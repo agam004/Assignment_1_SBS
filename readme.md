@@ -42,7 +42,6 @@ This is a simple **Inventory Management System** built using **Node.js, Express,
 ### Duplicate Entries: Prevents adding identical items.
 
 
-## Author
 👤 Guragampreet Singh
 🎓 Student Number: 8913870
 📅 Submission Date: 10/02/2025
